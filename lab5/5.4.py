@@ -1,0 +1,6 @@
+set_1 = set(range(1, 20, 2))
+set_2 = set(range(1, 20, 3))
+print(set_1)
+print(set_2)
+print(set_1.intersection(set_2))
+print(set_1.union(set_2))

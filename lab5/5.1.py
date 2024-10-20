@@ -1,0 +1,5 @@
+tuple_1 = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+x = type(tuple_1)
+print(x)
+list_1 = list(tuple_1)
+print(list_1)
